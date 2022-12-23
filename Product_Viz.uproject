@@ -150,10 +150,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "GraphNUnrealPlugin",
-			"Enabled": true
-		},
-		{
 			"Name": "HoudiniEngine",
 			"Enabled": true
 		}
